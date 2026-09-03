@@ -9,7 +9,7 @@
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/H-SamurAI/H-SamurAI/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/hossamourad/hossamourad/output/github-contribution-grid-snake-dark.svg)
 
 ###
 
